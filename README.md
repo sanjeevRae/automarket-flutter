@@ -1,6 +1,7 @@
+# AutoMarket: Real‑time Deal Alert App
+
 ![App Banner](https://github.com/sanjeevRae/MYfiles/blob/main/Untitled%20design%20(1).jpg)
 
-# AutoMarket: Real‑time Deal Alert App
 
 **AutoMarket** is a Flutter‑based mobile client that receives instant push notifications about newly listed mobile phones from Facebook Marketplace (Nepal).  
 It works seamlessly with the AutoMarket backend – displaying deals with photos, price, location, and a direct link to the original listing.  
