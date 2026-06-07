@@ -21,8 +21,8 @@ The app registers your device token to Firestore, so the backend knows exactly w
 
 ## Architecture Overview (Notification Flow)
 
-![Notification Flow Diagram](https://via.placeholder.com/800x400?text=Push+Notification+Flow)  
-*Replace with your own diagram – e.g., Backend → FCM → Mobile device → Firestore read*
+![Notification Flow Diagram](https://placehold.co/800x400/png?text=Backend+%E2%86%92+FCM+%E2%86%92+Mobile+App)  
+*Diagram: Backend → FCM → Mobile device → Firestore read*
 
 1. Backend scraper finds a new deal → uploads image to Cloudinary  
 2. Backend writes listing to Firestore (`listings` collection)  
