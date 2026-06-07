@@ -1,4 +1,4 @@
-![App Banner](https://github.com/sanjeevRae/wfdbig_v1/assets/153409046/3980f8e0-7909-4b11-9f73-09d18d134cf6)
+![App Banner](https://github.com/sanjeevRae/MYfiles/blob/main/Untitled%20design%20(1).jpg)
 
 # AutoMarket: Real‑time Deal Alert App
 
